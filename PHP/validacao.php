@@ -12,12 +12,12 @@
        <; >; <=; >=; == (Igual); != (diferente)*/
 
        if ($usu == "João" && $sen == "123"){
-           header("location: novapagina.php");
+           header("location: ../HTML/novapagina.html");
        }else {
            ?>
            <script>
                window.alert("Dados Incorretos. Tente novamente");
-               window.location="index.php";
+               window.location="../index.html";
             </script>
             <?php
        }
