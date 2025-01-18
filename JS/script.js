@@ -1,8 +1,8 @@
 function clickEntrar(){
-    window.location="./HTML/login.html";
+    window.location="./PHP/login.php";
 }
 
 function errorRedirect(){
     window.alert("Dados Incorretos! Tente novamente.");
-    window.location = "../index.html";
+    window.location = "../index.php";
 }

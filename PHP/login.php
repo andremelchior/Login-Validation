@@ -8,7 +8,7 @@
     <body>
         <!--Criar um form com usuário(text) e senha(password)-->
         <div class="formulario">
-            <form class="box" action="../PHP/validacao.php" method="POST">
+            <form class="box" action="./validacao.php" method="POST">
                 <h1>Login</h1>
                 <input type="text" name="usuario" placeholder="Usuário" />
                 <input type="password" name="senha" placeholder="Senha" />

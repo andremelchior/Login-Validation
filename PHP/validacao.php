@@ -12,7 +12,7 @@
        <; >; <=; >=; == (Igual); != (diferente)*/
 
     if ($usu == "João" && $sen == "123"){
-        header("location: ../HTML/novapagina.html");
+        header("location: ./novapagina.php");
         exit;
     }else {
         ?>

@@ -47,7 +47,7 @@
         </div>
 
         <div class="btn">
-            <button class="button"><a href="../index.html">Voltar</a></button>
+            <button class="button"><a href="../index.php">Voltar</a></button>
         </div>
     </body>
 </html>
